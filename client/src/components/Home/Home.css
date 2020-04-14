@@ -1,0 +1,15 @@
+.question {
+    background-color: #5acee8;
+    text-align: center;
+    color: #fff;
+    padding: 10px 0px 60px;
+}
+
+.title {
+    font-size: 50px;
+    font-family: "zenon",sans-serif;
+}
+
+.subtitle {
+    font-size: 30px;
+}

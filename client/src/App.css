@@ -1,0 +1,29 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 30px;
+  height: 117px;
+}
+
+.header img {
+    height: 60px;
+}
+
+.navigation-items {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+.navigation-item {
+    margin-left: 40px;
+}
+
+.navigation-item a {
+    color: #B9B9B9;
+    text-decoration: none;
+}
